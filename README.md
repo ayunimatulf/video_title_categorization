@@ -26,7 +26,7 @@ After I think I have the best model that I can raise I implemented the model for
     4. Transform the text to doc_by_term matrix using old TF-IDF values
     5. Then I predicting the matrix using my model I have created
 ## RESULT
-The evaluation metrics from data1 and data2 is represents below :
+The evaluation metrics from the data is represents below :
 <p align='center'>
   <img src='https://github.com/ayunimatulf/video_title_categorization/blob/master/evaluation_metrics.png'>
 </p>
